@@ -11,13 +11,15 @@ Institucional  |  Investidores
 
 ...
 
-"Education as a Service para desenvolver competências comportamentais. Este é o projeto educacional mais disruptivo dos últimos tempos". 
+**"Education as a Service para desenvolver competências comportamentais. Este é o projeto educacional mais disruptivo dos últimos tempos".** 
 
-Paulo Satdinha, Presidente Nacional ABRH.
+Paulo Sardinha, Presidente Nacional ABRH.<br><br>
+
+
 
 "A ideia de levar a educação profissional baseada em problemas para profissionais de ensino médio e superior vai democratizar.
 
-Alba Valéria, diretora de RH da XYZ.
+Alba Valéria, diretora de RH da XYZ.<br><br>
 
 
 ...
