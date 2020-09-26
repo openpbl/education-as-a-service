@@ -69,9 +69,9 @@ Conheça as escolas profissionais que ensinam através de problemas do dia-a-dia
 
 ### Porque desenvolver competências comportamentais?
 
-Competências comportamentais já são demandadas de profissionais em níveis cada vez mais próximos da base da pirâmide hierárquica.
+Competências comportamentais já são demandadas de profissionais em níveis cada vez mais próximos da base da pirâmide hierárquica.
 
-† Num mundo globalizado, dinâmico e automatizado, os conhecimentos e habilidades técnicas se mostram cada vez mais efêmeros. 
+† Num mundo globalizado, dinâmico e automatizado, os conhecimentos e habilidades técnicas se mostram cada vez mais efêmeros. 
 
 † Uma pesquisa publicada em 2018 pelo Fórum Econômico Mundial elencou as dez competências profissionais mais desejadas para os trabalhadores do futuro na opinião de gestores de RH de todo o mundo.
 
@@ -83,23 +83,23 @@ Entre as competências comportamentais mais valiosas no mundo corporativo, estã
 - Tomada de decisão envolvendo restrições de recursos, limitações éticas e sujeitas a regras de compliance;
 - Atuação em equipe sujeita às dinâmicas de cooperação, competição, liderança e negociação;  
 - Atuação sob pressão de prazo, desempenho e opiniões diversas;
-- Visão orçamentária e atitude empreendedora.
+- Visão orçamentária e atitude empreendedora.<br><br>
 
 
 ### Como desenvolver competências comportamentais?
 
-A aprendizagem baseada em problemas é um método ATIVO e extremamentepoderoso para acelerar odesenvolvimento INDIVIDUALIZADO de competências comportamentais.
+A aprendizagem baseada em problemas é um método ATIVO e extremamente poderoso para acelerar odesenvolvimento INDIVIDUALIZADO de competências comportamentais.
 
-Especialização baseada em problemas para médicos (residência) e C-level (casos de negócios).
+Especialização baseada em problemas para médicos (residência) e C-level (casos de negócios).
 
-† Aplicações clássicas da PBL em programas educacionais baseados em casos, projetos e desafios.
+† Aplicações clássicas da PBL em programas educacionais baseados em casos, projetos e desafios.<br><br>
 
 
 ### O que é uma trilha de especialização baseada em problemas?
 
 É um conjunto sequencial de cursos, complementares à formação profissional, com o objetivo de desenvolver competências comportamentais pelo método ativo.   
 
-Cada curso da trilha proporciona ao aluno uma  experiência de aprendizagem  completa  baseada na discussão de um problema real e típico de sua função. 
+Cada curso da trilha proporciona ao aluno uma  experiência de aprendizagem  completa  baseada na discussão de um problema real e típico de sua função.<br><br> 
 
 
 **Etapa 1: Preparação individual online**
@@ -112,7 +112,7 @@ Na etapa de preparação de cada curso, o aluno:
 
 - Recebe recomendações personalizadas de fontes de conteúdo para eliminar possíveis deficiências de conhecimento técnico;
 
-- Ao final da etapa, propõe a sua solução (ou soluções) para o problema objeto do curso.
+- Ao final da etapa, propõe a sua solução (ou soluções) para o problema objeto do curso.<br><br>
 
 
 **Etapa 2: Discussão em grupo**
@@ -125,7 +125,7 @@ Na etapa de discussão, o aluno:
 
 - A sessão deve ser realizada fora da empresa, em ambiente que dispõedos recursos tecnológicos necessários para o desenvolvimento de competências comportamentais conforme a metodologia proposta.  
 
-*A substituição de uma sessão presencial por sessão síncrona online reduz a eficiência do método. Nestes casos, recomendamos o reforço da atividade de aprendizagem com uma sessão adicional para tratar do mesmo problema. Este procedimento implica em custos maiores de execução da trilha.* 
+*A substituição de uma sessão presencial por sessão síncrona online reduz a eficiência do método. Nestes casos, recomendamos o reforço da atividade de aprendizagem com uma sessão adicional para tratar do mesmo problema. Este procedimento implica em custos maiores de execução da trilha.* <br><br>
 
 
 ### Qual o feedback do aluno?
@@ -136,7 +136,7 @@ Como feedback da sua atuação em cada curso da trilha de carreira, o aluno rece
 
 - A  avaliação comentada  do seu desempenho na solução do problema proposto no curso. 
 
-- O  registro audiovisual  da sua participação na sessão presencial de discussões;
+- O  registro audiovisual  da sua participação na sessão presencial de discussões;<br><br>
 
 
 ### Quais competências podem ser desenvolvidas com as trilhas de especialização?
@@ -155,7 +155,7 @@ Cada curso da trilha pode ser  configurado  para acelerar o desenvolvimento de u
 
 - Atuação em equipe sujeita às dinâmicas de cooperação, competição e negociação;
 
-- Atitude empreendedora frente à identificação de oportunidades, planejamento e mobilização de recursos.
+- Atitude empreendedora frente à identificação de oportunidades, planejamento e mobilização de recursos.<br><br>
 
 
 ### Quais são as métricas disponíveis para acompanhamento da capacitação?
@@ -167,7 +167,7 @@ Ao final de cada curso são disponibilizadas pesquisas do tipo “avaliação de
 São disponibilizadas duas avaliações do tipo “formulário” de proficiência das competências comportamentais estimuladas na capacitação: uma no início (diagnóstica) e outra ao término da trilha (somativa).
 
 **Avaliação pelos gestores diretos**
-São disponibilizadas duas avaliações do tipo “régua de competências” para os gestores diretos dos alunos. Uma antes do início (diagnóstica) e outra após 30 dias do término da trilha (somativa). 
+São disponibilizadas duas avaliações do tipo “régua de competências” para os gestores diretos dos alunos. Uma antes do início (diagnóstica) e outra após 30 dias do término da trilha (somativa). <br><br>
 
 
 ### FEATURES 
@@ -212,7 +212,7 @@ Desenvolva competências comportamentais por...
 
 - Treine colaboradores em todo o Brasil pelo mesmo valor.
 - 
-
+<br><br>
 
 ...
 
@@ -222,7 +222,7 @@ Crie novos cursos de especialização por ...
 
 29,90 por aluno por mês. <br><br>
 
-
+<br><br>
 
 ... 
 
@@ -232,12 +232,13 @@ Selecione com maior acurácia por...
 
 29,90 por colaborador por mês. <br><br>
 
-
+<br><br>
 
 ...
 
 **PARA PROFISSIONAIS**
 
+<br><br>
 
 ...
 
@@ -250,7 +251,7 @@ Criação de cursos
 Execução de cursos
 Implantação
 Preço e prazo de entrega 
-Condições comerciais  
+Condições comerciais  <br><br>
 
 ...
 
@@ -267,7 +268,7 @@ Salas multimídias preparadas para sessões presenciais com tutoria remota;
 Avaliação automatizada dos alunos; 
 Módulo para geração de cenários de problemas customizados para a empresa;
 Módulo de treinamento de tutores; 
-Plug-in para interação com o LMS da empresa;
+Plug-in para interação com o LMS da empresa;<br><br>
 
 
 
@@ -280,7 +281,7 @@ Conhecimentos técnicos associados aos problemas
 As fontes de conteúdo sugeridas ao aluno são escolhidas pela empresa contratante de uma lista sugerida no Catálogo de Fontes da OpenPBL. 
 
 Competências comportamentais
-As competências comportamentais estimuladas em cada curso serão escolhidas pela empresa contratante de uma lista sugerida no Catálogo de Competências da OpenPBL. 
+As competências comportamentais estimuladas em cada curso serão escolhidas pela empresa contratante de uma lista sugerida no Catálogo de Competências da OpenPBL. <br><br>
 
 
 **Criação de cursos**
@@ -302,7 +303,7 @@ Criação de novos cenários
 A criação de novos cenários é assistida pelo software do sistema de ensino e necessita da interação com pelo menos um gestor especialista na função do público alvo da capacitação. A escolha do gestor especialista é de responsabilidade da empresa contratante. 
 
 Linkedin (opcional)*
-Os alunos precisarão disponibilizar conta no Linkedin para que as suas experiências profissionais anteriores sejam consideradas na etapa de discussões dos problemas. 
+Os alunos precisarão disponibilizar conta no Linkedin para que as suas experiências profissionais anteriores sejam consideradas na etapa de discussões dos problemas. <br><br>
 
 
 
@@ -318,7 +319,7 @@ As sessões presenciais* de discussão de cada curso serão executadas SEM CUSTO
 Informações dos alunos (enquadramento LGPD) 
 As sessões 
 
-
+<br><br>
 
 **Implantação**
 
@@ -326,7 +327,7 @@ Treinamento
 O projeto de licenciamento inclui consultoria de 3 horas para treinamento de operação do sistema de ensino.
 
 Integração com LMS 
-O projeto de licenciamento inclui consultoria de 2 horas para implantação técnica do sistema de ensino.
+O projeto de licenciamento inclui consultoria de 2 horas para implantação técnica do sistema de ensino.<br><br>
 
  
 
@@ -343,7 +344,7 @@ Duração mínima
 O prazo mínimo de duração do licenciamento é de 24 meses;
 
 
-* Considerando a quantidade de licenças e duração mínimos, o valor total do projeto educacional pelo período contratado de 24 meses é de R$ 174.000,00 . 
+* Considerando a quantidade de licenças e duração mínimos, o valor total do projeto educacional pelo período contratado de 24 meses é de R$ 174.000,00 . <br><br>
 
 
 **Condições comerciais**  
@@ -355,6 +356,6 @@ Condições especiais para contratação por volume
 O valor total contratado terá uma bonificação de 10%  para a contratação mínima de 500 licenças, mais uma bonificação adicional de 2%  para cada grupo de 250 licenças contratada. 
 
 Condições especiais para antecipação da contratação
-O valor total contratado terá um desconto adicional de 5% para a contratação até a data de xx/xx/202x. 
+O valor total contratado terá um desconto adicional de 5% para a contratação até a data de xx/xx/202x. <br><br>
 
 &&&
