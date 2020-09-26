@@ -71,7 +71,7 @@ Conheça as escolas profissionais que ensinam através de problemas do dia-a-dia
 
 Competências comportamentais já são demandadas de profissionais em níveis cada vez mais próximos da base da pirâmide hierárquica.
 
-† Num mundo globalizado, dinâmico e automatizado, os conhecimentos e habilidades técnicas se mostram cada vez mais efêmeros. 
+† Num mundo globalizado, dinâmico e automatizado, os conhecimentos e habilidades técnicas se mostram cada vez mais efêmeros. 
 
 † Uma pesquisa publicada em 2018 pelo Fórum Econômico Mundial elencou as dez competências profissionais mais desejadas para os trabalhadores do futuro na opinião de gestores de RH de todo o mundo.
 
@@ -88,7 +88,7 @@ Entre as competências comportamentais mais valiosas no mundo corporativo, estã
 
 ### Como desenvolver competências comportamentais?
 
-A aprendizagem baseada em problemas é um método ATIVO e extremamente poderoso para acelerar odesenvolvimento INDIVIDUALIZADO de competências comportamentais.
+A aprendizagem baseada em problemas é um método ATIVO e extremamente poderoso para acelerar o desenvolvimento INDIVIDUALIZADO de competências comportamentais.
 
 Especialização baseada em problemas para médicos (residência) e C-level (casos de negócios).
 
@@ -99,7 +99,7 @@ Especialização baseada em problemas para médicos (residência) e C-level (cas
 
 É um conjunto sequencial de cursos, complementares à formação profissional, com o objetivo de desenvolver competências comportamentais pelo método ativo.   
 
-Cada curso da trilha proporciona ao aluno uma  experiência de aprendizagem  completa  baseada na discussão de um problema real e típico de sua função.<br><br> 
+Cada curso da trilha proporciona ao aluno uma  experiência de aprendizagem completa  baseada na discussão de um problema real e típico de sua função.<br><br> 
 
 
 **Etapa 1: Preparação individual online**
@@ -119,24 +119,24 @@ Na etapa de preparação de cada curso, o aluno:
 
 Na etapa de discussão, o aluno:
 
-- Participa de uma  sessão presencial * de três horas, em turmas de até 10 (dez) alunos, para discussões em torno do problema proposto no curso;
+- Participa de uma  sessão presencial de três horas, em turmas de até 10 (dez) alunos, para discussões em torno do problema proposto no curso;
 
 - A sessão é conduzida por um tutor especialista, via webconference.
 
-- A sessão deve ser realizada fora da empresa, em ambiente que dispõedos recursos tecnológicos necessários para o desenvolvimento de competências comportamentais conforme a metodologia proposta.  
+- A sessão deve ser realizada fora da empresa, em ambiente que dispõe dos recursos tecnológicos necessários para o desenvolvimento de competências comportamentais conforme a metodologia proposta.  
 
-*A substituição de uma sessão presencial por sessão síncrona online reduz a eficiência do método. Nestes casos, recomendamos o reforço da atividade de aprendizagem com uma sessão adicional para tratar do mesmo problema. Este procedimento implica em custos maiores de execução da trilha.* <br><br>
+*A substituição de uma sessão presencial por sessão síncrona online reduz a eficiência do método. Nestes casos, recomendamos o reforço da atividade de aprendizagem com uma sessão adicional para tratar do mesmo problema. Este procedimento implica em custos maiores de execução da trilha.* <br><br>
 
 
 ### Qual o feedback do aluno?
 
 Como feedback da sua atuação em cada curso da trilha de carreira, o aluno recebe:
 
-- Os resultados dos testes de conhecimento técnico quefez ao longo do curso;
+- Os resultados dos testes de conhecimento técnico que fez ao longo do curso;
 
 - A  avaliação comentada  do seu desempenho na solução do problema proposto no curso. 
 
-- O  registro audiovisual  da sua participação na sessão presencial de discussões;<br><br>
+- O  registro audiovisual  da sua participação na sessão presencial de discussões;<br><br>
 
 
 ### Quais competências podem ser desenvolvidas com as trilhas de especialização?
@@ -161,12 +161,15 @@ Cada curso da trilha pode ser  configurado  para acelerar o desenvolvimento de u
 ### Quais são as métricas disponíveis para acompanhamento da capacitação?
 
 **Avaliação de reação**
+
 Ao final de cada curso são disponibilizadas pesquisas do tipo “avaliação de reação” entre os alunos. 
 
 **Avaliação indireta das competências**
+
 São disponibilizadas duas avaliações do tipo “formulário” de proficiência das competências comportamentais estimuladas na capacitação: uma no início (diagnóstica) e outra ao término da trilha (somativa).
 
 **Avaliação pelos gestores diretos**
+
 São disponibilizadas duas avaliações do tipo “régua de competências” para os gestores diretos dos alunos. Uma antes do início (diagnóstica) e outra após 30 dias do término da trilha (somativa). <br><br>
 
 
@@ -203,6 +206,8 @@ Salas preparadas para as sessões presenciais em todas as capitais e maiores cid
 ...
 
 ### PREÇOS E BENEFÍCIOS
+
+<br>
 
 **PARA EMPRESAS**
 
@@ -244,53 +249,62 @@ Selecione com maior acurácia por...
 
 ### Proposta de Licenciamento de Sistema de Ensino
 
-Público, objetivo e metodologia
-Recursos do sistema
-Catálogos OpenPBL
-Criação de cursos
-Execução de cursos
-Implantação
-Preço e prazo de entrega 
-Condições comerciais  <br><br>
+- Público, objetivo e metodologia
+- Recursos do sistema
+- Catálogos OpenPBL
+- Criação de cursos
+- Execução de cursos
+- Implantação
+- Preço e prazo de entrega 
+- Condições comerciais  <br><br>
 
 ...
 
 **Público, objetivo e metodologia**
 
+
+
 **Recursos do sistema**
+
 Descrição do sistema de ensino
+
 Conjunto de recursos de software, conteúdo e infraestrutura física para criação e execução de cursos de especialização profissional baseados em problemas. 
 
 Os recursos incluídos no licenciamento do sistema de ensino são:
-Acesso aos catálogo OpenPBL de cenários, fontes e competências;
-Banco de questões para certificações técnicas;
-Salas multimídias preparadas para sessões presenciais com tutoria remota;
-Avaliação automatizada dos alunos; 
-Módulo para geração de cenários de problemas customizados para a empresa;
-Módulo de treinamento de tutores; 
-Plug-in para interação com o LMS da empresa;<br><br>
-
+- Acesso aos catálogo OpenPBL de cenários, fontes e competências;
+- Banco de questões para certificações técnicas;
+- Salas multimídias preparadas para sessões presenciais com tutoria remota;
+- Avaliação automatizada dos alunos; 
+- Módulo para geração de cenários de problemas customizados para a empresa;
+- Módulo de treinamento de tutores; 
+- Plug-in para interação com o LMS da empresa;<br><br>
 
 
 **Catálogos OpenPBL**
 
 Cenário de problemas
+
 O título do cenário de problema a ser explorado em cada curso é escolhido pela empresa contratante de uma lista sugerida no Catálogo de Cenários da OpenPBL.
 
 Conhecimentos técnicos associados aos problemas
+
 As fontes de conteúdo sugeridas ao aluno são escolhidas pela empresa contratante de uma lista sugerida no Catálogo de Fontes da OpenPBL. 
 
 Competências comportamentais
+
 As competências comportamentais estimuladas em cada curso serão escolhidas pela empresa contratante de uma lista sugerida no Catálogo de Competências da OpenPBL. <br><br>
 
 
 **Criação de cursos**
+
 Criação de cursos
 
 Operação 
+
 A operação* de “criação” da trilha é de responsabilidade da empresa contratante. 
 
 Tarefas
+
 A criação da trilha envolve as tarefas de: escolha dos cursos, agendamento das datas** das sessões síncronas, agendamento dos tutores e criação da turma.  
 
 
@@ -300,9 +314,11 @@ A criação da trilha envolve as tarefas de: escolha dos cursos, agendamento das
 
 
 Criação de novos cenários
+
 A criação de novos cenários é assistida pelo software do sistema de ensino e necessita da interação com pelo menos um gestor especialista na função do público alvo da capacitação. A escolha do gestor especialista é de responsabilidade da empresa contratante. 
 
-Linkedin (opcional)*
+Linkedin (opcional)
+
 Os alunos precisarão disponibilizar conta no Linkedin para que as suas experiências profissionais anteriores sejam consideradas na etapa de discussões dos problemas. <br><br>
 
 
@@ -310,6 +326,7 @@ Os alunos precisarão disponibilizar conta no Linkedin para que as suas experiê
 **Execução de cursos**
 
 Sessões síncronas  
+
 As sessões presenciais* de discussão de cada curso serão executadas SEM CUSTOS ADICIONAIS em espaços de coworking da empresa WEWORK, em unidade escolhida** pela empresa contratante em qualquer das cidades da lista disponível no Catálogo OpenPBL. 
 
 *A opção por executar as sessões síncronas dos cursos em plataformas online implica na duplicação das sessões e em custos maiores de contratação de tutores pela empresa contratante. 
@@ -317,45 +334,54 @@ As sessões presenciais* de discussão de cada curso serão executadas SEM CUSTO
 ** A confirmação do agendamento depende de disponibilidade da sala pela unidade WEWORK  escolhida.
 
 Informações dos alunos (enquadramento LGPD) 
+
 As sessões 
 
 <br><br>
 
+
 **Implantação**
 
 Treinamento
+
 O projeto de licenciamento inclui consultoria de 3 horas para treinamento de operação do sistema de ensino.
 
 Integração com LMS 
-O projeto de licenciamento inclui consultoria de 2 horas para implantação técnica do sistema de ensino.<br><br>
 
- 
+O projeto de licenciamento inclui consultoria de 2 horas para implantação técnica do sistema de ensino.<br><br>
 
 
 **Preço e prazo de entrega** 
 
 Preço*
+
 O valor da licença é de  R$ 29,00 por aluno por mês de utilização do sistema. 
 
 Mínimo de licenças 
+
 A número mínimo contratado é de 250 licenças.
 
 Duração mínima 
+
 O prazo mínimo de duração do licenciamento é de 24 meses;
 
 
 * Considerando a quantidade de licenças e duração mínimos, o valor total do projeto educacional pelo período contratado de 24 meses é de R$ 174.000,00 . <br><br>
 
 
+
 **Condições comerciais**  
 
 Condições de pagamento
+
 O pagamento deverá ser efetuado em 24 (vinte e quatro) parcelas, conforme a execução contratual. 
 
 Condições especiais para contratação por volume
+
 O valor total contratado terá uma bonificação de 10%  para a contratação mínima de 500 licenças, mais uma bonificação adicional de 2%  para cada grupo de 250 licenças contratada. 
 
 Condições especiais para antecipação da contratação
+
 O valor total contratado terá um desconto adicional de 5% para a contratação até a data de xx/xx/202x. <br><br>
 
 &&&
