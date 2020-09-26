@@ -2,12 +2,6 @@
 <a name="portuguese"></a> 
 <br>
 
-### OpenPBL Education as a Service
-
-<br>
-
-### MENU
-
 Institucional  |  Investidores 
 
 ...
