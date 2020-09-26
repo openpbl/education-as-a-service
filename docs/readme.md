@@ -6,92 +6,101 @@
 
 <br>
 
+### MENU
 
 Institucional  |  Investidores 
 
 ...
 
-**"Education as a Service para desenvolver competências comportamentais. Este é o projeto educacional mais disruptivo dos últimos tempos".** 
+### TESTEMUNHAL
+
+**"Education as a Service para desenvolver competências comportamentais. Este é o projeto educacional mais disruptivo dos últimos tempos." ** 
 
 Paulo Sardinha, Presidente Nacional ABRH.<br><br>
 
 
-
-"A ideia de levar a educação profissional baseada em problemas para profissionais de ensino médio e superior vai democratizar.
+**"A ideia de levar a educação profissional baseada em problemas para profissionais de ensino médio e superior vai democratizar." **
 
 Alba Valéria, diretora de RH da XYZ.<br><br>
 
 
 ...
 
-PARA EMPRESAS
+### DESCRIÇÃO RESUMIDA
+
+**O que é?** 
+ 
+Um conjunto  completo de recursos para acelerar o desenvolvimento de competências comportamentais de profissionais de nível médio ou superior. <br><br>
+
+
+**O que faz?**
+
+O sistema gerencia a criação e a execução de cursos de especialização baseados em problemas reais e típicos da carreira profissional. <br><br>
+
+
+...
+
+### CALL TO ACTION
+
+**PARA EMPRESAS**
 
 Desenvolva competências comportamentais com custos menores. <br><br>
 
 
-PARA ESCOLAS
+**PARA ESCOLAS**
 
 Crie novos cursos de especialização. <br><br>
 
 
-PARA RECRUTADORES
+**PARA RECRUTADORES**
 
 Selecione com maior acurácia. <br><br>
 
 
-PARA PROFISSIONAIS 
+**PARA PROFISSIONAIS** 
 
 Conheça as escolas profissionais que ensinam através de problemas do dia-a-dia da sua função. <br><br>
 
-...
-
- O que é? 
- 
- Um conjunto  completo  de recursos para acelerar o desenvolvimento de competências comportamentais de profissionais de nível médio ou superior
-
-
-O que faz?
-
-O sistema gerencia a criação e a execução de cursos de especialização baseados em problemas reais e típicos da carreira profissional.
-
-
 
 ...
 
-Features 
+### FEATURES 
 
-Geração de cenários customizados
-Módulo para geração de novos cenários de problemas para a realidade da empresa ou escola. 
+**Geração de cenários customizados**<br>
+Módulo para geração de novos cenários de problemas para a realidade da empresa ou escola. <br><br>
 
-Treinamento de tutores
-Módulo para recrutamento e treinamento de tutores para condução das sessões.
+**Treinamento de tutores**<br>
+Módulo para recrutamento e treinamento de tutores para condução das sessões.<br><br>
 
-Avaliação automatizada
-O sistema de ensino avalia automaticamente a participações dos alunos nas discussões das  soluções dos problemas.
+**Avaliação automatizada**<br>
+O sistema de ensino avalia automaticamente a participações dos alunos nas discussões das  soluções dos problemas.<br><br>
 
-Interação com o LMS  via API
-Não é necessário um LMS. Todas as interações com os alunos podem ser feitas pelo LMS em uso. 
+**Interação com o LMS  via API**<br>
+Não é necessário um LMS. Todas as interações com os alunos podem ser feitas pelo LMS em uso. <br><br>
 
-Catálogo de cenários de problemas
-Acesso à base de cenários de problemas OpenPBL.
+**Catálogo de cenários de problemas**<br>
+Acesso à base de cenários de problemas OpenPBL.<br><br>
 
-Banco de questões 
-Banco de questões OpenPBL para avaliações de conhecimento técnico dos alunos.
+**Banco de questões** <br>
+Banco de questões OpenPBL para avaliações de conhecimento técnico dos alunos.<br><br>
 
-Conteúdo de parceiros 
-Acesso ao conteúdo técnico de parceiros da OpenPBL .
+**Conteúdo de parceiros** <br>
+Acesso ao conteúdo técnico de parceiros da OpenPBL .<br><br>
 
-Salas multimidias em todo o Brasil
-Salas preparadas para as sessões presenciais em todas as capitais e maiores cidades do Brasil. Confira a lista de cidades. 
+**Salas multimidias em todo o Brasil** <br>
+Salas preparadas para as sessões presenciais em todas as capitais e maiores cidades do Brasil. Confira a lista de cidades. <br><br>
 
 
 
 ...
-PARA EMPRESAS
+
+### PREÇOS E BENEFÍCIOS
+
+**PARA EMPRESAS**
 
 Desenvolva competências comportamentais por... 
 
-29,90 por colaborador por mês. 
+29,90 por colaborador por mês. <br><br>
 
 - Treine colaboradores em todo o Brasil pelo mesmo valor.
 - 
@@ -99,26 +108,26 @@ Desenvolva competências comportamentais por...
 
 ...
 
-PARA ESCOLAS
+**PARA ESCOLAS**
 
 Crie novos cursos de especialização por ...
 
-29,90 por aluno por mês. 
+29,90 por aluno por mês. <br><br>
 
 
 
 ... 
 
-PARA RECRUTADORES
+**PARA RECRUTADORES**
 
 Selecione com maior acurácia por...  
 
-29,90 por colaborador por mês. 
+29,90 por colaborador por mês. <br><br>
 
 
 
 ...
 
-PARA PROFISSIONAIS 
+**PARA PROFISSIONAIS**
 
 
