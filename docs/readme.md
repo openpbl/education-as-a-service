@@ -225,12 +225,15 @@ Selecione com maior acurácia por...
 
 **Público, objetivo e metodologia** <br>
 
+Público<br>
 
+Objetivo<br>
+
+Metodologia<br>
 
 **Recursos do sistema**<br>
 
-Descrição do sistema de ensino
-
+Descrição do sistema de ensino<br>
 Conjunto de recursos de software, conteúdo e infraestrutura física para criação e execução de cursos de especialização profissional baseados em problemas. 
 
 Os recursos incluídos no licenciamento do sistema de ensino são:
@@ -245,16 +248,13 @@ Os recursos incluídos no licenciamento do sistema de ensino são:
 
 **Catálogos OpenPBL**<br>
 
-Cenário de problemas
-
+Cenário de problemas <br>
 O título do cenário de problema a ser explorado em cada curso é escolhido pela empresa contratante de uma lista sugerida no Catálogo de Cenários da OpenPBL.
 
-Conhecimentos técnicos associados aos problemas
-
+Conhecimentos técnicos associados aos problemas <br>
 As fontes de conteúdo sugeridas ao aluno são escolhidas pela empresa contratante de uma lista sugerida no Catálogo de Fontes da OpenPBL. 
 
-Competências comportamentais
-
+Competências comportamentais <br>
 As competências comportamentais estimuladas em cada curso serão escolhidas pela empresa contratante de uma lista sugerida no Catálogo de Competências da OpenPBL. <br><br>
 
 
@@ -281,8 +281,8 @@ Os alunos precisarão disponibilizar conta no Linkedin para que as suas experiê
 Sessões síncronas <br>
 As sessões presenciais* de discussão de cada curso serão executadas SEM CUSTOS ADICIONAIS em espaços de coworking da empresa WEWORK, em unidade escolhida** pela empresa contratante em qualquer das cidades da lista disponível no Catálogo OpenPBL.<br> 
 
-*A opção por executar as sessões síncronas dos cursos em plataformas online implica na duplicação das sessões e em custos maiores de contratação de tutores pela empresa contratante. <br>
-** A confirmação do agendamento depende de disponibilidade da sala pela unidade WEWORK escolhida.
+*A opção por executar as sessões síncronas dos cursos em plataformas online implica na duplicação das sessões e em custos maiores de contratação de tutores pela empresa contratante.* <br>
+*A confirmação do agendamento depende de disponibilidade da sala pela unidade WEWORK escolhida*.
 
 Informações dos alunos (enquadramento LGPD) <br>
 As sessões .....<br><br>
@@ -308,7 +308,7 @@ A número mínimo contratado é de 250 licenças.
 Duração mínima <br>
 O prazo mínimo de duração do licenciamento é de 24 meses;
 
-* Considerando a quantidade de licenças e duração mínimos, o valor total do projeto educacional pelo período contratado de 24 meses é de R$ 174.000,00 . <br><br>
+*Considerando a quantidade de licenças e duração mínimos, o valor total do projeto educacional pelo período contratado de 24 meses é de R$ 174.000,00.* <br><br>
 
 
 **Condições comerciais**  <br>
