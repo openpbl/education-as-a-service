@@ -1,11 +1,14 @@
+
+<start> 
+
+
+
 #### OpenPBL v1.0
 
 # education-as-a-service
 OpenPBL Education as a Service 
 
-Institucional
-Investidores 
-
+Institucional  |  Investidores 
 
 ...
 
@@ -18,24 +21,26 @@ Paulo Satdinha, Presidente Nacional ABRH.
 Alba Valéria, diretora de RH da XYZ.
 
 
+...
+
 PARA EMPRESAS
 
-Desenvolva competências comportamentais com custos menores.
+Desenvolva competências comportamentais com custos menores. <br><br>
 
 
 PARA ESCOLAS
 
-Crie novos cursos de especialização.
+Crie novos cursos de especialização. <br><br>
 
 
 PARA RECRUTADORES
 
-Selecione com maior acurácia. 
+Selecione com maior acurácia. <br><br>
 
 
 PARA PROFISSIONAIS 
 
-Conheça as escolas profissionais que ensinam através de problemas do dia-a-dia da sua função. 
+Conheça as escolas profissionais que ensinam através de problemas do dia-a-dia da sua função. <br><br>
 
 ...
 
