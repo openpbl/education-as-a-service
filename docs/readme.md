@@ -1,12 +1,15 @@
 
-<a name="portuguese"></a> 
+# OpenPBL
+
+<a name="portuguese"></a>
+
 <br>
 
-Institucional4  |  Investidores 
+Institucional4  |  Investidores
 
 ...
 
-### Sistema de Ensino OpenPBL 
+## Sistema de Ensino OpenPBL
 
 **O que é?** <br>
 Um conjunto completo de recursos para acelerar o desenvolvimento de competências comportamentais em profissionais de nível médio e superior. <br><br>
@@ -55,15 +58,16 @@ Conheça as escolas profissionais que ensinam através de problemas do dia-a-dia
 
 Competências comportamentais já são demandadas de profissionais em níveis cada vez mais próximos da base da pirâmide hierárquica.
 
-† Num mundo globalizado, dinâmico e automatizado, os conhecimentos e habilidades técnicas se mostram cada vez mais efêmeros. 
+† Num mundo globalizado, dinâmico e automatizado, os conhecimentos e habilidades técnicas se mostram cada vez mais efêmeros.  
 
 † Uma pesquisa publicada em 2018 pelo Fórum Econômico Mundial elencou as dez competências profissionais mais desejadas para os trabalhadores do futuro na opinião de gestores de RH de todo o mundo.
 
 Algumas competências permitem  que profissionais alcancem os resultados esperados de forma mais eficiente.
 
-Entre as competências comportamentais mais valiosas no mundo corporativo, estão: 
+Entre as competências comportamentais mais valiosas no mundo corporativo, estão:
+
 - Estruturação de problemas mal definidos; 
-- Tomada de decisão envolvendo incertezas e objetivos conflitantes; 
+- Tomada de decisão envolvendo incertezas e objetivos conflitantes;
 - Tomada de decisão envolvendo restrições de recursos, limitações éticas e sujeitas a regras de compliance;
 - Atuação em equipe sujeita às dinâmicas de cooperação, competição, liderança e negociação;  
 - Atuação sob pressão de prazo, desempenho e opiniões diversas;

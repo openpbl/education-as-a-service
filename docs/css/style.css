@@ -1,0 +1,743 @@
+/* 
+
+Instruções
+
+PT - Este arquivo contém todo o css que foi adicionado ao bootstrap css orignal para obter o layout desejado.
+Entao, cada elemento (título, parágrafo, imagens, ..) pode ter regras CSS tanto neste arquivo 
+quanto em outro arquivo bootstrap css (veja abaixo o outro nome para arquivos CSS)
+Por favor, consulte a ferramenta Inspecionar elemento enquanto estiver no site, 
+para ter certeza de onde está localizado o CSS que você deseja atualizar.
+
+EN - This file contain all the css that was added to the orignal bootstrap css to obtain the layout desired.
+So each element (title, paragraph, images,..) can have CSS rules in both this file 
+and another one from bootstrap css files(see below the other name for CSS files)
+Please refer to the Inspect element tool while on the website, 
+to be sure of where is located the CSS you want to update.
+
+---------------------------------------------------------------------------------
+
+CSS
+
+PT - Para atualizar o css de um elemento do site, use a ferramenta "examinar elemento" 
+clicando com o botão direito do mouse quando estiver na página do site. 
+Em seguida, procure o elemento que deseja atualizar e pesquise onde o css está localizado 
+e em qual linha do arquivo, no lado direito da ferramenta. 
+Pode ser neste arquivo style.css ou nos arquivos css principais de bootstrap: bootstrap.mim.css e mdb.mim.css.
+
+Se o CSS estiver localizado em "inline", significa que o estilo css está diretamente em index.html 
+na mesma linha do elemento que você deseja atualizar, depois da palavra style = "xxxxxx". 
+Existem alguns elementos relacionados a essa regra
+
+
+
+EN - To update the css of a site element, use the "examine element" tool
+right-click when you are on the site page.
+Then look for the element you want to update and search for where the css is located
+and on which line of the file, on the right side of the tool.
+This can be in this style.css file or in the main bootstrap css files: bootstrap.mim.css and mdb.mim.css.
+
+If the CSS is located in "inline", it means the css style is directly into index.html 
+at the same line of the element you want to update, after the word style="xxxxxx". 
+There are some few elements concerned by this rule 
+
+---------------------------------------------------------------------------------
+
+HTML 
+
+PT - Para atualizar o texto de um elemento do site, vá para o arquivo html index.html 
+e procure o texto que você deseja atualizar, deve aparecer em preto no editor html. 
+Você pode usar Ctrl + F para pesquisar no arquivo, pois há muitas linhas. 
+Em seguida, basta corrigir o texto como você deseja, sem editar o resto do código html, 
+apenas a parte preta deve ser editada no html para manter o layout.
+
+EN - To update the text of an element from the site, go into the html file index.html 
+and search for the text you want to update, must appears in black into the html editor. 
+You can use Ctrl+f to search into the file as there are lot of lines. 
+Then just correct the text as you want without editing the rest of the html code, 
+just the black part must be edited in the html to keep the layout.
+
+---------------------------------------------------------------------------------
+
+IMAGES
+
+PT - Para atualizar uma imagem da imagem do site, você pode usar a ferramenta inspecionar elementos 
+diretamente quando estiver no site, para encontrar o nome da imagem.
+Em seguida, adicione a nova imagem na pasta "img" do site e renomeie-a 
+exatamente da mesma que deseja substituir, exclua as antigas ou renomeie-as.
+
+EN - To update an image of the image of the site, you can use the inspect element 
+tool directly when you are on the website, to find the name of the image.
+Then add the new image in the img folder of the site and rename it exactly 
+the same of the image you want to replace, delete the old ones or rename it.
+
+---------------------------------------------------------------------------------
+
+BOOTSTRAP WEBSITE
+
+PT - Por favor, consulte https://mdbootstrap.com/docs/jquery/layout/overview/ se você precisar 
+de mais elementos do bootstrap ou entender melhor o layout e os elementos no site
+
+
+EN - Please refer to https://mdbootstrap.com/docs/jquery/layout/overview/ if you need 
+some more elements from bootstrap or to understand better the layout and the elements on the website
+
+*/
+
+
+/* Image top background*/
+
+.view{
+    background-image: url('../img/header1.jpg'); 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    background-position: center center;
+}
+
+
+/* Position & size Container Text top - A educaco corpo...*/
+
+.view .col-md-12{
+    text-align: left !important;
+    max-width: 55% !important;
+}
+
+/* Section Problema & Ideia*/
+
+.problemaideia .col-md-5{
+    padding-left:5%;
+    padding-right:5%;
+    background-color:#f3f5f7;
+    margin-left:6%;
+    -webkit-box-shadow: 0 2px 5px 0 rgba(0,0,0,.16),0 2px 10px 0 rgba(0,0,0,.12);
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,.16),0 2px 10px 0 rgba(0,0,0,.12);
+    border: 0;
+    font-weight: 400;
+}
+
+.problemaideia .row{
+    margin-bottom:3rem;
+    margin-top:3rem;
+}
+
+/* Title Problema & Ideia*/
+
+.problemaideia h2{
+    color:#484848;
+    padding-top: 1.5rem;
+    text-align: center;
+}
+
+/* Bouton Saber mais*/
+
+.problemaideia a{
+   float:right;
+   font-size: smaller;
+   color:grey;
+}
+
+/* Content Saber mais*/
+
+.problemaideia .list-group-item p{
+    font-size: smaller;
+}
+
+/* Resultado */
+
+.problemaideia .result{
+   color:#4f6891;
+   font-size:larger;
+}
+
+.problemaideia .card{
+    background-color:#f3f5f7;
+    box-shadow:0 0 0 0!important;
+}
+
+.problemaideia .card-body{
+     text-align: left;
+}
+
+.problemaideia .accordion{
+    background-color:#f3f5f7;
+}
+
+.problemaideia .card-header{
+    background-color:#f3f5f7;
+}
+
+.problemaideia .list-group list-group-flush{
+    background-color:#f3f5f7;
+}
+
+.problemaideia .list-group-item{
+    padding-bottom:0.2rem;
+    padding-top:0.2rem;
+    background-color:#f3f5f7;
+}
+
+.problemaideia .iconproblema{
+    text-align:center;
+}
+
+/* End Section Problema & Ideia*/
+
+/* Section Assinaturas*/
+
+.assinaturas .container-fluid{
+    background-color:#4f6891;
+}
+
+.assinaturas .text-center{
+    background-color:#4f6891;
+    padding-top:0.4rem;
+    padding-bottom:1rem;
+    padding-left: 15px;
+    padding-right:15px;
+    margin-bottom:0!important;
+}
+
+/* Title Assinaturas*/
+
+.assinaturas h2{
+    color:#FFFFFF;
+}
+
+/* Paragraph Assinaturas*/
+
+.assinaturas .lead{
+    color:#FFFFFF!important;
+}
+
+/* Title 3 Assinaturas - Arqui, Produ, Engag*/
+
+.assinaturas h4{
+    color:#FFFFFF!important;
+}
+
+/* Paragrah 3 Assinaturas - Arqui, Produ, Engag*/
+
+.assinaturas .grey-text{
+    color:#FFFFFF!important;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+/* Text - As assinaturas EduCorp.Digital não definem*/
+
+.assinaturas .estrela{
+    color:#FFF6!important;
+    font-size:70%;
+}
+
+
+/* End Section Assinaturas*/
+
+/* Section Simple Assim */
+
+.simpleassim .container-fluid{
+    background-color:#f3f5f7;
+    padding-top:2rem;
+    padding-bottom:2rem;
+    padding-left:0px;
+    padding-right:0px;
+}
+
+/* Title Simple Assim*/
+
+.simpleassim h2{
+     color:#484848;
+}
+
+/* Timeline Simple Assim - CSS from Bootsrap*/
+
+.timeline {
+    list-style: none;
+    padding: 20px 0 20px;
+    position: relative;
+}
+
+    .timeline:before {
+        top: 0;
+        bottom: 0;
+        position: absolute;
+        content: " ";
+        width: 3px;
+        background-color: #eeeeee;
+        left: 50%;
+        margin-left: -1.5px;
+    }
+
+    .timeline > li {
+        margin-bottom: 20px;
+        position: relative;
+    }
+
+        .timeline > li:before,
+        .timeline > li:after {
+            content: " ";
+            display: table;
+        }
+
+        .timeline > li:after {
+            clear: both;
+        }
+
+        .timeline > li:before,
+        .timeline > li:after {
+            content: " ";
+            display: table;
+        }
+
+        .timeline > li:after {
+            clear: both;
+        }
+
+        .timeline > li > .timeline-panel {
+            width: 46%;
+            float: left;
+            border: 1px solid #d4d4d4;
+            border-radius: 2px;
+            padding: 20px;
+            position: relative;
+            -webkit-box-shadow: 0 1px 6px rgba(0, 0, 0, 0.175);
+            box-shadow: 0 1px 6px rgba(0, 0, 0, 0.175);
+            background-color: #fff;
+        }
+
+            .timeline > li > .timeline-panel:before {
+                position: absolute;
+                top: 26px;
+                right: -15px;
+                display: inline-block;
+                border-top: 15px solid transparent;
+                border-left: 15px solid #ccc;
+                border-right: 0 solid #ccc;
+                border-bottom: 15px solid transparent;
+                content: " ";
+            }
+
+            .timeline > li > .timeline-panel:after {
+                position: absolute;
+                top: 27px;
+                right: -14px;
+                display: inline-block;
+                border-top: 14px solid transparent;
+                border-left: 14px solid #fff;
+                border-right: 0 solid #fff;
+                border-bottom: 14px solid transparent;
+                content: " ";
+            }
+
+        .timeline > li > .timeline-badge {
+            color: #fff;
+            width: 50px;
+            height: 50px;
+            line-height: 50px;
+            font-size: 1.4em;
+            text-align: center;
+            position: absolute;
+            top: 16px;
+            left: 50%;
+            margin-left: -25px;
+            background-color: #999999;
+            z-index: 100;
+            border-top-right-radius: 50%;
+            border-top-left-radius: 50%;
+            border-bottom-right-radius: 50%;
+            border-bottom-left-radius: 50%;
+        }
+
+        .timeline > li.timeline-inverted > .timeline-panel {
+            float: right;
+        }
+
+            .timeline > li.timeline-inverted > .timeline-panel:before {
+                border-left-width: 0;
+                border-right-width: 15px;
+                left: -15px;
+                right: auto;
+            }
+
+            .timeline > li.timeline-inverted > .timeline-panel:after {
+                border-left-width: 0;
+                border-right-width: 14px;
+                left: -14px;
+                right: auto;
+            }
+
+.timeline-badge.primary {
+    background-color: #2e6da4 !important;
+}
+
+.timeline-badge.success {
+    background-color: #3f903f !important;
+}
+
+.timeline-badge.warning {
+    background-color: #f0ad4e !important;
+}
+
+.timeline-badge.danger {
+    background-color: #d9534f !important;
+}
+
+.timeline-badge.info {
+    background-color: #4f6891 !important;
+}
+
+.timeline-title {
+    margin-top: 0;
+    color: inherit;
+}
+
+/* Paragraph Simple Assim*/
+
+.timeline-body > p,
+.timeline-body > ul {
+    margin-bottom: 0;
+}
+
+    .timeline-body > p + p {
+        margin-top: 5px;
+    }
+
+@media (max-width: 767px) {
+    ul.timeline:before {
+        left: 40px;
+    }
+
+    ul.timeline > li > .timeline-panel {
+        width: calc(100% - 90px);
+        width: -moz-calc(100% - 90px);
+        width: -webkit-calc(100% - 90px);
+    }
+
+    ul.timeline > li > .timeline-badge {
+        left: 15px;
+        margin-left: 0;
+        top: 16px;
+    }
+
+    ul.timeline > li > .timeline-panel {
+        float: right;
+    }
+
+        ul.timeline > li > .timeline-panel:before {
+            border-left-width: 0;
+            border-right-width: 15px;
+            left: -15px;
+            right: auto;
+        }
+
+        ul.timeline > li > .timeline-panel:after {
+            border-left-width: 0;
+            border-right-width: 14px;
+            left: -14px;
+            right: auto;
+        }
+}
+
+/* End Section Simple Assim */
+
+
+/* Section Recursos */
+
+/* Title Section Recursos - Alguns recursos... */
+
+.recursos h2 {
+    color:#484848;
+}
+
+/* SubTitle in each Tabs Section Recursos - Dashboard moderno e prático, Indicadores estratégicos sob controle,... */
+
+.recursos h4 {
+    color:#484848;
+}
+
+.recursos .list-group-item{
+    padding-bottom:0.2rem;
+    padding-top:0.2rem;
+}
+
+/* Color icon start paragraph */
+
+.recursos .fa{
+    color:#424f95;
+}
+
+/* End Section Recursos */
+
+
+/* Section Compare */
+
+.compare .container-fluid{
+    background-color:#f3f5f7;
+    padding-top:2rem;
+    padding-bottom:2rem;
+    padding-left:0px;
+    padding-right:0px;
+}
+
+/* Title Section Compare - Compare */
+
+.compare h2{
+    color:#484848;
+}
+
+/* Title columns - LMS tradicional, assinaturas... */
+
+.compare h4{
+    text-align:center;
+    color:#484848;
+}
+
+
+/* End Section Recursos */
+
+
+
+/* Section Assinaturas - Programas */
+
+/* Title Assinaturas - Solucoes completas.. */
+
+.programs h2{
+    color:#484848;
+}
+
+/* SubTitle for all 4 tables with details when toogle to show table is open - Assinaturas para programas autoinstrucionais,Assinaturas para programas com turmas fechadas e tutoria,... */
+
+.programs h4{
+    color: #484848;
+}
+
+/* Title each column - Programas auto instrucionais,Programas com turmas fechadas e tutoria,... */
+
+.programs h5{
+    color:#4f6891;
+}
+
+/* Saber mais button */
+
+.programs .card-body a{
+    float:center;
+    font-size: small;
+    color:grey;
+}
+
+/* Paragraph */
+
+.programs p{
+    font-size:small;
+}
+
+.programs .titleline{
+    text-align:left;
+}
+
+.programs td{
+    text-align:center;
+}
+
+.programs th{
+    text-align:center;
+}
+
+.programs .price{
+    background-color:#f3f5f7
+}
+
+.buttondetail{
+    text-align:center;
+}
+
+/* End Section Assinaturas - programas */
+
+/* Section Conteudo */
+
+.conteudo .col-md-1{
+    float:left;
+    margin-bottom:20px;
+}
+
+.conteudo img{
+    max-height:100px;
+    max-width:110px;
+}
+
+/* Title Conteudo - Conteudo digital...*/
+
+.conteudo h4{
+    color:#484848;
+    
+}
+
+/* End  Section Conteudo*/
+
+/* Section Quem somos */
+
+.quemsomos h4{
+    color:#484848;
+}
+
+.quemsomos .col-md-4{
+    float:left;
+}
+
+/* End Section Quem somos */
+
+
+
+/* Section Quem usa */
+
+.quemusa .container-fluid{
+    background-color:#f3f5f7;
+    padding-top:2rem;
+    padding-bottom:2rem;
+    padding-left:0px;
+    padding-right:0px;
+}
+
+/* Title Section Quem usa - Campeos...*/
+
+.quemusa h3{
+    color:#484848;
+}
+
+/* End Section Quem usa */
+
+/* Button Go top */
+
+.gotop #go-top{
+    position: fixed; 
+    bottom:0;
+    right:0;
+    z-index:0;
+}
+
+.gotop a{
+    text-decoration: none;
+    border: 0 none;
+    display: block;
+    height: 66px; 
+    width: 60px;
+    line-height: 66px;
+    text-align: center;
+    background: #4f6891;
+    color: #FFFFFF;
+    text-align: center;
+    text-transform: uppercase;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+.gotop i{
+    margin-right:0!important;
+    margin-top:0rem;
+}
+
+
+/* End  Button Go top */
+
+
+/* Required for full background image */
+
+html,
+body,
+header,
+.view {
+  height: 100%;
+}
+
+@media (max-width: 740px) {
+  html,
+  body,
+  header,
+  .view {
+    height: 1000px;
+  }
+}
+@media (min-width: 800px) and (max-width: 850px) {
+  html,
+  body,
+  header,
+  .view {
+    height: 600px;
+  }
+}
+
+
+.circle {
+  padding: 13px 20px;
+  border-radius: 50%;
+  background-color: #ED8D8D;
+  color: #fff;
+  max-height: 50px;
+  z-index: 2;
+}
+
+.how-it-works.row .col-2 {
+  align-self: stretch;
+}
+.how-it-works.row .col-2::after {
+  content: "";
+  position: absolute;
+  border-left: 3px solid #ED8D8D;
+  z-index: 1;
+}
+.how-it-works.row .col-2.bottom::after {
+  height: 50%;
+  left: 50%;
+  top: 50%;
+}
+.how-it-works.row .col-2.full::after {
+  height: 100%;
+  left: calc(50% - 3px);
+}
+.how-it-works.row .col-2.top::after {
+  height: 50%;
+  left: 50%;
+  top: 0;
+}
+
+
+
+
+.btn .fa {
+  margin-left: 3px;
+}
+
+.top-nav-collapse {
+  background-color: #fff !important;
+}
+
+.navbar:not(.top-nav-collapse) {
+  background: transparent !important;
+}
+
+@media (max-width: 991px) {
+  .navbar:not(.top-nav-collapse) {
+    background: #fff !important;
+  }
+}
+
+.btn-white {
+  color: black !important;
+}
+
+h6 {
+  line-height: 1.7;
+}
+
+
+.rgba-gradient {
+  background: -moz-linear-gradient(0deg, rgba(79, 104, 145, 0.53), rgba(255, 255, 255, 0) 100%);
+  background: -webkit-linear-gradient(0deg, rgba(79, 104, 145, 0.53), rgba(255, 255, 255, 0) 100%);
+  background: -webkit-gradient(linear, 0deg, from(rgba(79, 104, 145, 0.53)), to(rgba(255, 255, 255, 0)));
+  background: -o-linear-gradient(0deg, rgba(79, 104, 145, 0.53), rgba(255, 255, 255, 0) 100%);
+  background: linear-gradient(to 0deg, rgba(79, 104, 145, 0.53), rgba(255, 255, 255, 0) 100%);
+}
+
+
