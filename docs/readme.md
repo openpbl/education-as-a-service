@@ -10,22 +10,22 @@
 
 ...
 
-## Call to action principal 
+## CALL TO ACTION 
 
 Texto do box: <br>
 **Entre com o seu telefone ou e-mail.**
 
-<h3>Para empresas</h3>
+<h4>Para empresas</h4>
 Quero capacitar mais colaboradores pelo método ATIVO.<br>
 
 Botão: **Experimentar**
 
-<h3>Para recrutadores</h3>
+<h4>Para recrutadores</h4>
 Quero selecionar profissionais com mais acurácia para os meus clientes.<br>
 
 Botão: **Experimentar**
 
-<h3>Para escolas</h3>
+<h4>Para escolas</h4>
 Quero ofertar novos cursos de especialização para meus alunos. <br>
 
 Botão: **Experimentar**
@@ -34,7 +34,7 @@ Botão: **Experimentar**
 
 ...
 
-## Banner principal 
+## BANNER PRINCIPAL  
 
 <br>
 
