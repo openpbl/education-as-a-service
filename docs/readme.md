@@ -39,7 +39,7 @@ Botão: **Experimentar**
 <br>
 
 <h1>A educação profissional <br> baseada em problemas <br> não é mais privilégio dos <br> grandes orçamentos.</h1>
-<h2>Quer saber porque? Experimente o estado da arte em desenvolvimento <br> de competências pelo preço de uma assinatura mensal.</h2> <br>
+<h3>Quer saber porque? Experimente o estado da arte em desenvolvimento <br> de competências pelo preço de uma assinatura mensal.</h3> <br>
 
 ...
 
