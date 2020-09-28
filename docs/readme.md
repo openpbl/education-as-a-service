@@ -5,7 +5,30 @@
 
 <br>
 
-Institucional4  |  Investidores
+## Menu horizontal principal 
+
+**Logo** |                  | **Como funciona**  |  **Catálogo** | Botão: **Experimentar**
+
+...
+
+## Banner principal 
+
+### A educação profissional baseada em problemas não é mais privilégio dos grandes orçamentos. 
+
+### Quer saber porque? 
+
+#### Experimente o estado da arte em desenvolvimento de competências pelo preço de uma assinatura mensal.
+
+
+Para empresas
+Quero capacitar mais colaboradores pelo método ATIVO.
+
+Para recrutadores
+Quero selecionar profissionais com mais acurácia para os meus clientes.
+
+Para escolas
+Quero ofertar novos cursos de especialização para meus alunos. 
+
 
 ...
 
