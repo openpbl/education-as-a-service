@@ -13,18 +13,14 @@
 
 ## Banner principal 
 
-Chamada
+**Chamada** <br> 
+<h1>A educação profissional baseada em problemas não é mais privilégio dos grandes orçamentos.</h1> 
 
-### A educação profissional baseada em problemas não é mais privilégio dos grandes orçamentos. 
+**Link** <br> 
+<h3> Quer saber porque? </h3> 
 
-Link
-
-#### Quer saber porque? 
-
-
-Call to action: Formulário
-
-#### Experimente o estado da arte em desenvolvimento de competências pelo preço de uma assinatura mensal.
+**Call to action: Formulário** <br>
+<h3>Experimente o estado da arte em desenvolvimento de competências pelo preço de uma assinatura mensal.</h3>
 
 **Para empresas** <br>
 Quero capacitar mais colaboradores pelo método ATIVO.
