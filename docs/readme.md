@@ -1,11 +1,10 @@
-
-# OpenPBL
-
 <a name="portuguese"></a>
 
 <br>
 
 ## Menu horizontal principal 
+
+<br>
 
 **Logo** |.........................................| Link: **Como funciona**  |  Link: **Catálogo** | Botão: **Experimentar**
 
@@ -39,17 +38,17 @@ Botão: **Experimentar**
 
 <br>
 
-<h1>A educação profissional <br> baseada em problemas <br> não é mais privilégio dos <br> grandes orçamentos.</h2>
-<h3>Quer saber porque? Experimente o estado da arte em desenvolvimento <br> de competências pelo preço de uma assinatura mensal.</h1> <br>
+<h1>A educação profissional <br> baseada em problemas <br> não é mais privilégio dos <br> grandes orçamentos.</h1>
+<h2>Quer saber porque? Experimente o estado da arte em desenvolvimento <br> de competências pelo preço de uma assinatura mensal.</h2> <br>
 
-**Call to action principal ->** <br>
+...
 
-<h3>"Este é o projeto educacional mais disruptivo dos últimos tempos no Brasil."</h3>
+<h4>"Este é o projeto educacional mais disruptivo dos últimos tempos no Brasil."</h4>
 
 *Paulo Sardinha, Presidente Nacional ABRH.* <br><br>
 
 
-<h3>"Democratizar o acesso à educação profissional baseada em problemas é uma ideia que vale a pena apostar".</h3>
+<h4>"Democratizar o acesso à educação profissional baseada em problemas é uma ideia que vale a pena apostar".</h4>
 
 *Alba Valéria, diretora de RH da XYZ.* <br><br>
 
