@@ -7,7 +7,7 @@
 
 ## Menu horizontal principal 
 
-**Logo** |       .           | Link: **Como funciona**  |  Link: **Catálogo** | Botão: **Experimentar**
+**Logo** |.........................................| Link: **Como funciona**  |  Link: **Catálogo** | Botão: **Experimentar**
 
 ...
 
@@ -16,17 +16,19 @@
 Texto do box: <br>
 **Entre com o seu telefone ou e-mail.**
 
-**Para empresas** <br>
+<h3>Para empresas** </h3> <br>
 Quero capacitar mais colaboradores pelo método ATIVO.<br>
 Botão: **Experimentar**
 
-**Para recrutadores** <br>
+<h3>Para recrutadores</h3> <br>
 Quero selecionar profissionais com mais acurácia para os meus clientes.<br>
 Botão: **Experimentar**
 
-**Para escolas** <br> 
+<h3>Para escolas** </h3> <br>
 Quero ofertar novos cursos de especialização para meus alunos. <br>
 Botão: **Experimentar**
+
+<br><br>
 
 ...
 
@@ -34,8 +36,8 @@ Botão: **Experimentar**
 
 <br>
 
-<h2>A educação profissional <br> baseada em problemas <br> não é mais privilégio dos <br> grandes orçamentos.</h2>
-<h3>Quer saber porque? Experimente o estado da arte em desenvolvimento <br> de competências pelo preço de uma assinatura mensal.</h3> <br>
+<h1>A educação profissional <br> baseada em problemas <br> não é mais privilégio dos <br> grandes orçamentos.</h2>
+<h3>Quer saber porque? Experimente o estado da arte em desenvolvimento <br> de competências pelo preço de uma assinatura mensal.</h1> <br>
 
 **Call to action principal ->** <br>
 
