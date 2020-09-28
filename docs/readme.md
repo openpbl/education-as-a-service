@@ -13,7 +13,8 @@
 
 ## Call to action principal 
 
-BoX: Entre com o seu telefone ou e-mail.
+Texto do box: <br>
+**Entre com o seu telefone ou e-mail.**
 
 **Para empresas** <br>
 Quero capacitar mais colaboradores pelo método ATIVO.<br>
