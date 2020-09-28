@@ -16,16 +16,19 @@
 Texto do box: <br>
 **Entre com o seu telefone ou e-mail.**
 
-<h3>Para empresas** </h3> <br>
+<h3>Para empresas</h3>
 Quero capacitar mais colaboradores pelo método ATIVO.<br>
+
 Botão: **Experimentar**
 
-<h3>Para recrutadores</h3> <br>
+<h3>Para recrutadores</h3>
 Quero selecionar profissionais com mais acurácia para os meus clientes.<br>
+
 Botão: **Experimentar**
 
-<h3>Para escolas** </h3> <br>
+<h3>Para escolas</h3>
 Quero ofertar novos cursos de especialização para meus alunos. <br>
+
 Botão: **Experimentar**
 
 <br><br>
@@ -41,12 +44,13 @@ Botão: **Experimentar**
 
 **Call to action principal ->** <br>
 
-**Testemunhos ->** <br>
+<h3>"Este é o projeto educacional mais disruptivo dos últimos tempos no Brasil."</h3>
 
-<h3>"Este é o projeto educacional mais disruptivo dos últimos tempos no Brasil."</h3> <br>
 *Paulo Sardinha, Presidente Nacional ABRH.* <br><br>
 
-<h3>"Democratizar o acesso à educação profissional baseada em problemas é uma ideia que vale a pena apostar".</h3> <br>
+
+<h3>"Democratizar o acesso à educação profissional baseada em problemas é uma ideia que vale a pena apostar".</h3>
+
 *Alba Valéria, diretora de RH da XYZ.* <br><br>
 
 
