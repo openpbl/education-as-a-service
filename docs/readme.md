@@ -11,19 +11,9 @@
 
 ...
 
-## Banner principal 
+## Call to action principal 
 
-<br>
-**Chamada** <br> 
-<h1>A educação profissional baseada em problemas não é mais privilégio dos grandes orçamentos.</h1> 
-
-<br><br>
-**Link** <br> 
-<h4> Quer saber porque? </h4> 
-
-<br><br>
-**Call to action: Formulário** <br>
-<h4>Experimente o estado da arte em desenvolvimento de competências pelo preço de uma assinatura mensal.</h4>
+BoX: Entre com o seu telefone ou e-mail.
 
 **Para empresas** <br>
 Quero capacitar mais colaboradores pelo método ATIVO.<br>
@@ -36,6 +26,17 @@ Botão: **Experimentar**
 **Para escolas** <br> 
 Quero ofertar novos cursos de especialização para meus alunos. <br>
 Botão: **Experimentar**
+
+...
+
+## Banner principal 
+
+<br>
+**Chamada** <br> 
+<h2>A educação profissional baseada em problemas não é mais privilégio dos grandes orçamentos.</h2> <br><br>
+<h4>Quer saber porque? </h4>  <br><br> 
+<h4>Experimente o estado da arte em desenvolvimento de competências pelo preço de uma assinatura mensal.</h4> <br><br>
+**Call to action principal* <br><br>
 
 ...
 
