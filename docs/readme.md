@@ -33,11 +33,11 @@ Botão: **Experimentar**
 ## Banner principal 
 
 <br>
+
 **Chamada** <br> 
-<h2>A educação profissional baseada em problemas não é mais privilégio dos grandes orçamentos.</h2> <br><br>
-<h4>Quer saber porque? </h4>  <br><br> 
-<h4>Experimente o estado da arte em desenvolvimento de competências pelo preço de uma assinatura mensal.</h4> <br><br>
-**Call to action principal* <br><br>
+<h2>A educação profissional baseada em problemas não é mais privilégio dos grandes orçamentos.</h2> <br>
+<h3>Quer saber porque? Experimente o estado da arte em desenvolvimento de competências pelo preço de uma assinatura mensal.</h3> <br>
+**Call to action principal** <br><br>
 
 ...
 
