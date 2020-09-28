@@ -7,28 +7,36 @@
 
 ## Menu horizontal principal 
 
-**Logo** |                  | **Como funciona**  |  **Catálogo** | Botão: **Experimentar**
+**Logo** |       .           | Link: **Como funciona**  |  Link: **Catálogo** | Botão: **Experimentar**
 
 ...
 
 ## Banner principal 
 
+Chamada
+
 ### A educação profissional baseada em problemas não é mais privilégio dos grandes orçamentos. 
 
-### Quer saber porque? 
+Link
+
+#### Quer saber porque? 
+
+
+Call to action: Formulário
 
 #### Experimente o estado da arte em desenvolvimento de competências pelo preço de uma assinatura mensal.
 
-
-Para empresas
+**Para empresas** <br>
 Quero capacitar mais colaboradores pelo método ATIVO.
+Botão: **Experimentar**
 
-Para recrutadores
+**Para recrutadores** <br>
 Quero selecionar profissionais com mais acurácia para os meus clientes.
+Botão: **Experimentar**
 
-Para escolas
+**Para escolas** <br> 
 Quero ofertar novos cursos de especialização para meus alunos. 
-
+Botão: **Experimentar**
 
 ...
 
