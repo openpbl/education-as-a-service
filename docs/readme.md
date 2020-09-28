@@ -34,9 +34,10 @@ Botão: **Experimentar**
 
 <br>
 
-**Chamada** <br> 
-<h2>A educação profissional baseada em problemas não é mais privilégio dos grandes orçamentos.</h2> <br>
-<h3>Quer saber porque? Experimente o estado da arte em desenvolvimento de competências pelo preço de uma assinatura mensal.</h3> <br>
+**Chamada:** <br> 
+<h2>A educação profissional <br> baseada em problemas <br> não é mais privilégio dos <br> grandes orçamentos.</h2>
+<h3>Quer saber porque? Experimente o estado da arte em desenvolvimento <br> de competências pelo preço de uma assinatura mensal.</h3> <br>
+
 **Call to action principal** <br><br>
 
 ...
