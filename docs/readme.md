@@ -34,11 +34,26 @@ Botão: **Experimentar**
 
 <br>
 
-**Chamada:** <br> 
 <h2>A educação profissional <br> baseada em problemas <br> não é mais privilégio dos <br> grandes orçamentos.</h2>
 <h3>Quer saber porque? Experimente o estado da arte em desenvolvimento <br> de competências pelo preço de uma assinatura mensal.</h3> <br>
 
-**Call to action principal** <br><br>
+**Call to action principal ->** <br>
+
+**Testemunhos ->** <br>
+
+<h3>"Este é o projeto educacional mais disruptivo dos últimos tempos no Brasil."</h3> <br>
+*Paulo Sardinha, Presidente Nacional ABRH.* <br><br>
+
+<h3>"Democratizar o acesso à educação profissional baseada em problemas é uma ideia que vale a pena apostar".</h3> <br>
+*Alba Valéria, diretora de RH da XYZ.* <br><br>
+
+
+...
+
+## Link: COMO FUNCIONA 
+
+
+
 
 ...
 
@@ -51,18 +66,6 @@ Um conjunto completo de recursos para acelerar o desenvolvimento de competência
 O sistema gerencia a criação e a execução de cursos de especialização baseados em problemas reais e típicos dos profissionais. <br><br>
 
 
-...
-
-### TESTEMUNHAL
-
-**"Este é o projeto educacional mais disruptivo dos últimos tempos no Brasil."** 
-
-*Paulo Sardinha, Presidente Nacional ABRH.* <br><br>
-
-
-**"Democratizar o acesso à educação profissional baseada em problemas é uma ideia que vale a pena apostar".**
-
-*Alba Valéria, diretora de RH da XYZ.* <br><br>
 
 
 
