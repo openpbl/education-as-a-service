@@ -2,11 +2,13 @@
 
 <br>
 
-## Menu horizontal principal 
+## MENU HORIZONTAL 
 
 <br>
 
 **Logo** |.........................................| Link: **Como funciona**  |  Link: **Catálogo** | Botão: **Experimentar**
+
+<br><br>
 
 ...
 
@@ -31,6 +33,7 @@ Quero ofertar novos cursos de especialização para meus alunos. <br>
 Botão: **Experimentar**
 
 <br><br>
+
 
 ...
 
