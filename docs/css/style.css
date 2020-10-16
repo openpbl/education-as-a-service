@@ -87,7 +87,7 @@ some more elements from bootstrap or to understand better the layout and the ele
 /* Image top background*/
 
 .view{
-    background-image: url('../img/header1.jpg'); 
+    background-image: url(''); 
     background-repeat: no-repeat; 
     background-size: cover; 
     background-position: center center;
@@ -98,7 +98,7 @@ some more elements from bootstrap or to understand better the layout and the ele
 
 .view .col-md-12{
     text-align: left !important;
-    max-width: 55% !important;
+    max-width: 45% !important;
 }
 
 /* Section Problema & Ideia*/
@@ -622,7 +622,7 @@ some more elements from bootstrap or to understand better the layout and the ele
     width: 60px;
     line-height: 66px;
     text-align: center;
-    background: #4f6891;
+    background: #020311;
     color: #FFFFFF;
     text-align: center;
     text-transform: uppercase;
@@ -714,8 +714,9 @@ header,
 }
 
 .navbar:not(.top-nav-collapse) {
-  background: transparent !important;
+  background: white !important;
 }
+
 
 @media (max-width: 991px) {
   .navbar:not(.top-nav-collapse) {
@@ -734,7 +735,11 @@ h6 {
 
 .rgba-gradient {
   background: -moz-linear-gradient(0deg, rgba(79, 104, 145, 0.53), rgba(255, 255, 255, 0) 100%);
-  background: -webkit-linear-gradient(0deg, rgba(79, 104, 145, 0.53), rgba(255, 255, 255, 0) 100%);
+
+  
+  background: -webkit-linear-gradient(0deg, rgba(252, 250, 250, 0), rgba(255, 255, 255, 0) 100%);
+
+
   background: -webkit-gradient(linear, 0deg, from(rgba(79, 104, 145, 0.53)), to(rgba(255, 255, 255, 0)));
   background: -o-linear-gradient(0deg, rgba(79, 104, 145, 0.53), rgba(255, 255, 255, 0) 100%);
   background: linear-gradient(to 0deg, rgba(79, 104, 145, 0.53), rgba(255, 255, 255, 0) 100%);

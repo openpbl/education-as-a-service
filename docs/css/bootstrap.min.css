@@ -269,7 +269,7 @@ template {
     font-family:inherit;
     font-weight:500;
     line-height:1.2;
-    color:inherit
+    color:inherit;
 }
 .blockquote, hr {
     margin-bottom:1rem
@@ -456,7 +456,7 @@ pre code {
     position:relative;
     width:100%;
     min-height:1px;
-    padding-right:15px;
+    padding-right:20px;
     padding-left:15px
 }
 .col {
