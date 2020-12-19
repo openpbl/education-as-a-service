@@ -6701,12 +6701,12 @@ color: #4f6891 !important;
 .btn-outline-white {
     border:2px solid #fff!important;
     background-color:transparent!important;
-    color:#fff!important
+    color:rgb(20, 20, 20)!important
 }
 .btn-outline-white.active, .btn-outline-white:active, .btn-outline-white:active:focus, .btn-outline-white:focus, .btn-outline-white:hover {
     border-color:#fff!important;
     background-color:transparent!important;
-    color:#fff!important
+    color:rgb(24, 22, 22)!important
 }
 .btn-outline-white:not([disabled]):not(.disabled).active, .btn-outline-white:not([disabled]):not(.disabled):active, .show>.btn-outline-white.dropdown-toggle {
     -webkit-box-shadow:0 5px 11px 0 rgba(0, 0, 0, .18), 0 4px 15px 0 rgba(0, 0, 0, .15);

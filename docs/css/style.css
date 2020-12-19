@@ -87,7 +87,7 @@ some more elements from bootstrap or to understand better the layout and the ele
 /* Image top background*/
 
 .view{
-    background-image: url(''); 
+    background-image: url('../img/banner1.png'); 
     background-repeat: no-repeat; 
     background-size: cover; 
     background-position: center center;
@@ -552,6 +552,9 @@ some more elements from bootstrap or to understand better the layout and the ele
 
 /* End Section Assinaturas - programas */
 
+
+
+
 /* Section Conteudo */
 
 .conteudo .col-md-1{
@@ -565,13 +568,16 @@ some more elements from bootstrap or to understand better the layout and the ele
 }
 
 /* Title Conteudo - Conteudo digital...*/
-
 .conteudo h4{
     color:#484848;
     
 }
 
 /* End  Section Conteudo*/
+
+
+
+
 
 /* Section Quem somos */
 
@@ -584,6 +590,8 @@ some more elements from bootstrap or to understand better the layout and the ele
 }
 
 /* End Section Quem somos */
+
+
 
 
 
@@ -604,6 +612,30 @@ some more elements from bootstrap or to understand better the layout and the ele
 }
 
 /* End Section Quem usa */
+
+
+
+
+
+/* Section Quem usa white */
+
+.quemusawhite .container-fluid{
+    background-color:white;
+    padding-top:2rem;
+    padding-bottom:2rem;
+    padding-left:0px;
+    padding-right:0px;
+}
+
+/* Title Section Quem usa - Campeos...*/
+
+.quemusawhite h3{
+    color:#484848;
+}
+
+/* End Section Quem usa */
+
+
 
 /* Button Go top */
 
