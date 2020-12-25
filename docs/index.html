@@ -26,7 +26,7 @@
 
             <!-- MENU HORIZONTAL -->
             <!--padding-top -bottom: bootstrap.min.css:2916 (?) -->
-            <nav class="navbar navbar-expand-lg navbar-dark fixed-top scrolling-navbar">
+            <nav class="navbar navbar-expand-lg navbar-light fixed-top scrolling-navbar">
                 
                 <div class="container">
 
@@ -40,15 +40,17 @@
                         <span class="navbar-toggler-icon"></span>
                     </button>
 
-                    <!--ITENS MENU-->
-                    <!--text-color: mdb.min.css:6930-->
-                    <!--font-weight: mdb.min.css:6815-->
-                    <!--box-shadow: mdb.min.css:6814-->
-                    <!--hover-color: mdb.min.css:6936--> 
+
                     <div class="collapse navbar-collapse smooth-scroll" id="collapsingNavbarMd">
                      <!--<div class="collapse navbar-collapse smooth-scroll" id="navbarSupportedContent-7">-->
                         
+                        <!--ITENS MENU-->
+                        <!--text-color: mdb.min.css:6930-->
+                        <!--font-weight: mdb.min.css:6815-->
+                        <!--box-shadow: mdb.min.css:6814-->
+                        <!--hover-color: mdb.min.css:6936--> 
                         <ul class="navbar-nav mr-auto smooth-scroll">
+                            
                             <li class="nav-item smooth-scroll">
                                  <a class="nav-link" href="#como">Como funciona</a>
                             </li>
@@ -124,7 +126,6 @@
 
         </header>
         
-
 
 
         <!-- SEÇÃO COMO FUNCIONA --> 
@@ -878,6 +879,11 @@
         <script type="text/javascript" src="js/bootstrap.min.js"></script>
         <!-- MDB core JavaScript -->
         <script type="text/javascript" src="js/mdb.min.js"></script>
+
+        <script> $('.navbar-nav>li>a').on('click', function(){
+            $('.navbar-collapse').collapse('hide');
+        });
+    </script>
 
     </body>
 
