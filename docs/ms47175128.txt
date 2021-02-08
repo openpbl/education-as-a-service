@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "openpbl.ai",
+  "Id": "51aba9bd-6c6b-46ff-9918-239dd8da41fe"
+}
